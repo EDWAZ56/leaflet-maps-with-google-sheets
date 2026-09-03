@@ -6,13 +6,19 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ## Live links (replace with your own)
 - Leaflet Map trouwfeest https://edwaz56.github.io/leaflet-maps-with-google-sheets/
 - Leaflet Map trouwreceptie https://edwaz56.github.io/leaflet-maps-with-google-sheets/index2.html
-- Leaflet Map moezelreis https://edwaz56.github.io/leaflet-maps-with-google-sheets/moezelreis.html
-- Leaflet Map volgende reis https://edwaz56.github.io/leaflet-maps-with-google-sheets/reis.html
+- Leaflet Map moezelreis https://eddauwe.github.io/leaflet-maps-with-google-sheets/moezelreis2024.html
+- Leaflet Map volgende reis https://eddauwe.github.io/leaflet-maps-with-google-sheets/reis.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1mOBUbBVXFkRgtACWeZU8R3Q0OiOtaKw_SeUhtNbbcF4/edit#gid=164271551
 
 -Reis Alpen https://docs.google.com/spreadsheets/d/1EuOPFGHJp-hjNsiv1I7Q-2iM9LsJjQMaCD_rhZLqW-g/edit#gid=164271551
 
 -Ierland reis https://docs.google.com/spreadsheets/d/1Lykp1QpqZt8wqCzpzCCYwlL0MQOyerMwNqfatyHjoOs/edit#gid=486332968
+
+-Duitsland reis https://docs.google.com/spreadsheets/d/1FulPl5iOdX6t7Q4Ra4tvMdY7NPeR9YdTPwCSuyP8_-s/edit#gid=164271551
+
+-Nederland reis https://docs.google.com/spreadsheets/d/1e_RgGS-5AE7xozK9CtPRFWE-r9Us2liHANLdi9tPRwo/edit?gid=164271551#gid=164271551
+
+-Oostenrijk reis https://docs.google.com/spreadsheets/d/1krrwv6vV_qw7csLDIR7TuqTpT0SI5vv1CSgOMSPRjPc/edit?gid=164271551#gid=164271551
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
